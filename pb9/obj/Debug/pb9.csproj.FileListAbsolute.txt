@@ -1,0 +1,7 @@
+C:\Users\maria\Documents\program uni\set3\pb9\bin\Debug\pb9.exe.config
+C:\Users\maria\Documents\program uni\set3\pb9\bin\Debug\pb9.exe
+C:\Users\maria\Documents\program uni\set3\pb9\bin\Debug\pb9.pdb
+C:\Users\maria\Documents\program uni\set3\pb9\obj\Debug\pb9.csproj.AssemblyReference.cache
+C:\Users\maria\Documents\program uni\set3\pb9\obj\Debug\pb9.csproj.CoreCompileInputs.cache
+C:\Users\maria\Documents\program uni\set3\pb9\obj\Debug\pb9.exe
+C:\Users\maria\Documents\program uni\set3\pb9\obj\Debug\pb9.pdb

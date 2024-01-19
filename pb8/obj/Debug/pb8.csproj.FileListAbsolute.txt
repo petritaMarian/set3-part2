@@ -1,0 +1,7 @@
+C:\Users\maria\Documents\program uni\set3\pb8\bin\Debug\pb8.exe.config
+C:\Users\maria\Documents\program uni\set3\pb8\bin\Debug\pb8.exe
+C:\Users\maria\Documents\program uni\set3\pb8\bin\Debug\pb8.pdb
+C:\Users\maria\Documents\program uni\set3\pb8\obj\Debug\pb8.csproj.AssemblyReference.cache
+C:\Users\maria\Documents\program uni\set3\pb8\obj\Debug\pb8.csproj.CoreCompileInputs.cache
+C:\Users\maria\Documents\program uni\set3\pb8\obj\Debug\pb8.exe
+C:\Users\maria\Documents\program uni\set3\pb8\obj\Debug\pb8.pdb

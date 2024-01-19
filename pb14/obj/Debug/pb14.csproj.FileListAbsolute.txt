@@ -1,0 +1,7 @@
+C:\Users\maria\Documents\program uni\set3\pb14\bin\Debug\pb14.exe.config
+C:\Users\maria\Documents\program uni\set3\pb14\bin\Debug\pb14.exe
+C:\Users\maria\Documents\program uni\set3\pb14\bin\Debug\pb14.pdb
+C:\Users\maria\Documents\program uni\set3\pb14\obj\Debug\pb14.csproj.AssemblyReference.cache
+C:\Users\maria\Documents\program uni\set3\pb14\obj\Debug\pb14.csproj.CoreCompileInputs.cache
+C:\Users\maria\Documents\program uni\set3\pb14\obj\Debug\pb14.exe
+C:\Users\maria\Documents\program uni\set3\pb14\obj\Debug\pb14.pdb

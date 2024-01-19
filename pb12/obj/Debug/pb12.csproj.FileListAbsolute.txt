@@ -1,0 +1,7 @@
+C:\Users\maria\Documents\program uni\set3\pb12\bin\Debug\pb12.exe.config
+C:\Users\maria\Documents\program uni\set3\pb12\bin\Debug\pb12.exe
+C:\Users\maria\Documents\program uni\set3\pb12\bin\Debug\pb12.pdb
+C:\Users\maria\Documents\program uni\set3\pb12\obj\Debug\pb12.csproj.AssemblyReference.cache
+C:\Users\maria\Documents\program uni\set3\pb12\obj\Debug\pb12.csproj.CoreCompileInputs.cache
+C:\Users\maria\Documents\program uni\set3\pb12\obj\Debug\pb12.exe
+C:\Users\maria\Documents\program uni\set3\pb12\obj\Debug\pb12.pdb
